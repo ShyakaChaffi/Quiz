@@ -1,0 +1,16 @@
+NOTE DE LIVRAISON
+
+tout fonctionne, presque comme il faut 
+
+- pour changer de tournois: selectionner un tournois dans la liste (en haut, a gauche).
+- pour creer un nouveau match: selectionner les joueurs dans les combobox prevues a cette effet et cliquer sur "valider". 
+	En cas d'erreur, appuyer sur le btn "annuler".
+- pour supprimer un match: double click sur le match desire => popup.
+- pour modifier: supprimer et recreer un match.
+- pour jouer: selectionner les deux participants.
+        En cas d'abandon: le joueur1 est designe vainqueur.
+
+A faire:
+- probleme: la partie s'arrete une question trop tot :(
+- encore un peu de logique dans la viewTournament
+- comboBox a vider quand la partie se termine
